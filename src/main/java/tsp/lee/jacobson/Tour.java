@@ -1,5 +1,10 @@
 package tsp.lee.jacobson;
 
+/**
+ * classe de création de Tour
+ * @author Oriane
+ */
+
 import java.util.ArrayList;
 import java.util.Collections;
 

@@ -1,5 +1,11 @@
 package tsp.lee.jacobson;
 
+/**
+ * Classe de création de ville
+ * @author Oriane
+ */
+
+
 public class City {
     int x;
     int y;

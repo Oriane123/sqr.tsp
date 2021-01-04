@@ -1,5 +1,10 @@
 package tsp.lee.jacobson;
 
+/**
+ * Classe de création de population
+ * @author Oriane
+ */
+
 public class Population {
 
     // Holds population of tours
