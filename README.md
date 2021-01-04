@@ -29,31 +29,31 @@ Hereafter, for each classes give function to be tested. Remember that all functi
 
 | Function      |     I A D T     |        Comment |
 | :------------ | :-------------: | :------------- |
-| distanceToCity |  |  | 
-| getX |  |  | 
-| getY |  |  | 
-| toString |  |  | 
+| distanceToCity | T |  | 
+| getX | D | c'est un getter | 
+| getY | D | c'est un getter | 
+| toString | I | s'affichera donc juste besoin d'observer le résultat | 
 
 ### Class Tour
 
 | Function      |     I A D T     |        Comment |
 | :------------ | :-------------: | :------------- |
-| containsCity  |  |  |
-| getCity  |  |  |
-| getDistance  |  |  |
-| getFitness  |  |  |
-| setCity  |  |  |
-| tourSize  |  |  |
-| toString  |  |  |
+| containsCity  | D | utilise uniquement des fonction de ArrayList |
+| getCity  | D | c'est un getter |
+| getDistance  | T |  |
+| getFitness  | D | c'est un getter |
+| setCity  | D | c'est un setter |
+| tourSize  | D | c'est un getter |
+| toString  | I | s'affichera donc juste besoin d'observer le résultat |
 
 ### Class Population
 
 | Function      |     I A D T     |        Comment |
 | :------------ | :-------------: | :------------- |
-| getFittest  |  |  |
-| getTour  |  |  |
-| populationSize  |  |  |
-| saveTour  |  |  |
+| getFittest  | D | c'est un getter |
+| getTour  | D | c'est un getter |
+| populationSize  | D | c'est un getter |
+| saveTour  | D | c'est un setter |
 
 ## Functions to test now
 
